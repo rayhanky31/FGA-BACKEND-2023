@@ -6,3 +6,4 @@ function kelilingLingkaran(r) {
 }
 
 console.log(`Hasil Keliling Lingkaran: ${kelilingLingkaran(6)}`)
+//Adalah kue
