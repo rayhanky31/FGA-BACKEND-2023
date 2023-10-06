@@ -1,0 +1,7 @@
+ALGORITMA KELILING LINGKARAN
+1. Deklarasikan Variabel jari-jari dengan r
+2. Tetapkan nilai phi dengan 3.14 (atau gunakan Math.PI jika bahasa pemrograman Anda mendukungnya)
+3. Masukkan nilai jari-jari dari pengguna
+4. Hitung keliling lingkaran dengan rumus: 
+   kll_lingkaran = 2 * phi * r
+5. Cetak "Keliling lingkaran adalah:", kll_lingkaran.

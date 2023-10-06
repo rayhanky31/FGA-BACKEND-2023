@@ -1,0 +1,56 @@
+//Versi_1
+# Nama Program
+Program Keliling Lingkaran
+
+# Deklarasi Variabel
+DECLARE
+phi, r, hasil_kll AS FLOAT
+
+# Algoritma
+phi = 3.14
+r = INPUT("Masukkan Jari-Jari: ")
+hasil_kll = 2 * phi * CONVERT_TO_FLOAT(r)
+
+OUTPUT("Keliling Lingkaran = " + hasil_kll)
+ALERT("Keliling Lingkaran = " + hasil_kll)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+//Versi_2
+PROGRAM keliling_lingkaran
+
+DEKLARASI
+var r, phi, hasil_kll : float;
+
+ALGORITMA:
+phi <-- 3.14;
+
+hasil_kll <-- 2 * phi * r
+
+write(hasil_kll)
+
