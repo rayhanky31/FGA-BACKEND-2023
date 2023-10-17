@@ -2,7 +2,9 @@
 
 ### Studi Kasus ☑
 Sebuah bank ingin membuat sistem untuk melacak informasi nasabah, akun, dan transaksi mereka. Mereka ingin kamu merancang database yang sesuai dengan kebutuhan mereka.
-[![N|Solid](https://dibimbing-cdn.sgp1.cdn.digitaloceanspaces.com/1688350886985-Cara%20Install%20PostgreSQL%20di%20Windows%207%20tahun%202023.png.webp)](https://github.com/rayhanky31)
+<!-- <!-- [![N|Solid](https://dibimbing-cdn.sgp1.cdn.digitaloceanspaces.com/1688350886985-Cara%20Install%20PostgreSQL%20di%20Windows%207%20tahun%202023.png.webp)](https://github.com/rayhanky31) -->
+<img src="https://dibimbing-cdn.sgp1.cdn.digitaloceanspaces.com/1688350886985-Cara%20Install%20PostgreSQL%20di%20Windows%207%20tahun%202023.png.webp" width=80% >
+
 ### Entitas:
  - Nasabah
  - Akun
@@ -20,8 +22,8 @@ Sebuah bank ingin membuat sistem untuk melacak informasi nasabah, akun, dan tran
 - Gambarkan ERD:
 - Buatkan SQL untuk mendefinisikan table,
 - Buatkan SQL untuk operasi CRUD pada table yang ada.
-## License
-By Rayhan Kurnia Yusda 💻
+### Created by 
+Rayhan Kurnia Yusda 💻
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
