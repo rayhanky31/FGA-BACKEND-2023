@@ -1,7 +1,8 @@
 ## FGA-BACKEND 2023 CHALLENGE 3 ✨
 
 ### Studi Kasus ☑
-Sebuah bank ingin membuat sistem untuk melacak informasi nasabah, akun, dan transaksi mereka. Mereka ingin kamu merancang database yang sesuai dengan kebutuhan mereka..
+Sebuah bank ingin membuat sistem untuk melacak informasi nasabah, akun, dan transaksi mereka. Mereka ingin kamu merancang database yang sesuai dengan kebutuhan mereka.
+[![Build Status](https://media.licdn.com/dms/image/D4D12AQHK_E6VQdQ6ew/article-cover_image-shrink_720_1280/0/1693575956473?e=2147483647&v=beta&t=RTm9s17iPYRT309el-tN5TFE8uHbvc86jkK7PUkuzTY)](https://github.com/rayhanky31)
 ### Entitas:
  - Nasabah
  - Akun
