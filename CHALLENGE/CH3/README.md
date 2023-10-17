@@ -2,7 +2,7 @@
 
 ### Studi Kasus ☑
 Sebuah bank ingin membuat sistem untuk melacak informasi nasabah, akun, dan transaksi mereka. Mereka ingin kamu merancang database yang sesuai dengan kebutuhan mereka.
-[![Build Status](https://dibimbing-cdn.sgp1.cdn.digitaloceanspaces.com/1688350886985-Cara%20Install%20PostgreSQL%20di%20Windows%207%20tahun%202023.png.webp)](https://github.com/rayhanky31)
+[![N|Solid](https://dibimbing-cdn.sgp1.cdn.digitaloceanspaces.com/1688350886985-Cara%20Install%20PostgreSQL%20di%20Windows%207%20tahun%202023.png.webp)](https://github.com/rayhanky31)
 ### Entitas:
  - Nasabah
  - Akun
