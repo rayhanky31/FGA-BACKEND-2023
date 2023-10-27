@@ -1,0 +1,4 @@
+C1 = Contoh Umum
+C2 = Route level middleware Yaitu ekstensi dari aplikasi itu sendiri.
+C3 = Error Handling Middleware(err, req, res, dan next.)
+C4 = ORM PRISMA
